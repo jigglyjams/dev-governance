@@ -1,1 +1,1 @@
-Hello from JAVA and GraphQL
+I am an updated readme
