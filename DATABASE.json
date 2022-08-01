@@ -282,5 +282,31 @@
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xb94aa52a466bb69ec9af4998e4f86ed63bc34eb2611ac2b0724c4bec86302bb9",
         "date": "2022-07-06",
         "governanceCycle": 28
+    },
+    {
+        "hash": "4af5e71e52cc49238afe579a331f99bc",
+        "title": "Look Here Im new",
+        "url": "/GC29/JBP-300.md",
+        "category": "One-Time Payout",
+        "status": "Voting",
+        "proposalId": "JBP-300",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/997610063902556260",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPqoJgZaJKb9Ayv2NvS6EkM8vQ5uJR2RnM82gFmexPQGq",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x358f32a869a7d49ae598eb20372e019ffbb0e821381611fd2f70081e0e7a7657",
+        "date": "2022-07-06",
+        "governanceCycle": 29
+    },
+    {
+        "hash": "5fd9fcde35e84b5cb7af24d57104d78c",
+        "title": "Look there Im old",
+        "url": "/GC29/JBP-301.md",
+        "category": "One-Time Payout",
+        "status": "Voting",
+        "proposalId": "JBP-301",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/997606377054806048",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPqoJgZaJKb9Ayv2NvS6EkM8vQ5uJR2RnM82gFmexPQGq",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0xb94aa52a466bb69ec9af4998e4f86ed63bc34eb2611ac2b0724c4bec86302bb9",
+        "date": "2022-07-06",
+        "governanceCycle": 29
     }
 ]
