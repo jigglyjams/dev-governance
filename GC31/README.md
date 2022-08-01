@@ -1,0 +1,5 @@
+| Proposal ID | Title | Status | Governance Cycle | Category | Discussion Thread | Data Backup | Voting | Total Votes | For | Against |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| _JBP-220_ | [Set the thing to the stuff](/GC31/JBP-220.md) | Temperature Check | 31 | One-Time Payout | [Discord](https://discord.com/channels/889377541675159602/964601032703352873/997610061872513035) | [IPFS](null) | [Snapshot](null) |  | 0 | 0 |
+| _JBP-215_ | [Boopity bop](/GC31/JBP-215.md) | Temperature Check | 31 | Recurring Payment | [Discord](https://discord.com/channels/889377541675159602/964601032703352873/997610062887522404) | [IPFS](null) | [Snapshot](null) |  | 0 | 0 |
+| _JBP-300_ | [Look Here Im new](/GC31/JBP-300.md) | Temperature Check | 31 | One-Time Payout | [Discord](https://discord.com/channels/889377541675159602/964601032703352873/997610063902556260) | [IPFS](https://gateway.pinata.cloud/ipfs/QmPqoJgZaJKb9Ayv2NvS6EkM8vQ5uJR2RnM82gFmexPQGq) | [Snapshot](https://snapshot.org/#/jbdao.eth/proposal/0x358f32a869a7d49ae598eb20372e019ffbb0e821381611fd2f70081e0e7a7657) |  | 0 | 0 |
