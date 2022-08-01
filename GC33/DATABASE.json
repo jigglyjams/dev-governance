@@ -1,0 +1,38 @@
+{
+    "7748ea0a38814d4da59926aebb75d2c6": {
+        "title": "Set the thing to the stuff",
+        "url": "/GC33/JBP-220.md",
+        "category": "One-Time Payout",
+        "status": "Temperature Check",
+        "proposalId": "JBP-220",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/997610061872513035",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-12",
+        "governanceCycle": 33
+    },
+    "44438ec541494bb6bea8af588bb0a989": {
+        "title": "Boopity bop",
+        "url": "/GC33/JBP-215.md",
+        "category": "Recurring Payment",
+        "status": "Temperature Check",
+        "proposalId": "JBP-215",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/997610062887522404",
+        "ipfsURL": null,
+        "voteURL": null,
+        "date": "2022-07-15",
+        "governanceCycle": 33
+    },
+    "4af5e71e52cc49238afe579a331f99bc": {
+        "title": "Look Here Im new",
+        "url": "/GC33/JBP-300.md",
+        "category": "One-Time Payout",
+        "status": "Temperature Check",
+        "proposalId": "JBP-300",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/997610063902556260",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPqoJgZaJKb9Ayv2NvS6EkM8vQ5uJR2RnM82gFmexPQGq",
+        "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x358f32a869a7d49ae598eb20372e019ffbb0e821381611fd2f70081e0e7a7657",
+        "date": "2022-07-06",
+        "governanceCycle": 33
+    }
+}
