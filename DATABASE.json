@@ -9,6 +9,22 @@
         "ipfsURL": null,
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x32764c0aa691cf9e8ac32d2ebcd4953159647fa59bce113bbdfe3a539d73340a",
         "date": "2022-04-23",
+        "voteResults": {
+            "voteProposalId": "0x32764c0aa691cf9e8ac32d2ebcd4953159647fa59bce113bbdfe3a539d73340a",
+            "totalVotes": 88,
+            "scoresState": "final",
+            "scores": {
+                "For": 100000917.39535546,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 1,
+                "Against": 0
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 1
     },
     "d0b3107c86b6482f81f12a9e54526a1b": {
@@ -21,6 +37,22 @@
         "ipfsURL": null,
         "voteURL": "https://snapshot.org/#/jbdao.eth/proposal/0x095e7a3a7368bb4733d8d39793a73282bed25d4c42714b127060bff68a06586e",
         "date": "2022-04-23",
+        "voteResults": {
+            "voteProposalId": "0x095e7a3a7368bb4733d8d39793a73282bed25d4c42714b127060bff68a06586e",
+            "totalVotes": 97,
+            "scoresState": "final",
+            "scores": {
+                "For": 150601200.88473278,
+                "Against": 111577.92128297266,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0.9992596651580117,
+                "Against": 0.0007403348419883224
+            },
+            "outcomePercentage": "99.93",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 1
     },
     "b30d9ea13a214247a7cfeb84130270c2": {
@@ -33,6 +65,22 @@
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmY2jBzKmsSGrBdeWQgwr4W7d6pjrdxqodH7xMJJrxgwJQ",
         "voteURL": "       https://snapshot.org/#/jbdao.eth/proposal/0x52a79a1ff36b2fafab1a20c17f54559a90849e90d59303320d52429468bebf55     ",
         "date": "2022-04-23",
+        "voteResults": {
+            "voteProposalId": "0x52a79a1ff36b2fafab1a20c17f54559a90849e90d59303320d52429468bebf55",
+            "totalVotes": 98,
+            "scoresState": "final",
+            "scores": {
+                "For": 150725100.14030376,
+                "Against": 0,
+                "Abstain": 580.333572
+            },
+            "percentages": {
+                "For": 1,
+                "Against": 0
+            },
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
+        },
         "governanceCycle": 1
     }
 }
