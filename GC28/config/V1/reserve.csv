@@ -1,4 +1,4 @@
-beneficiary,percent,preferUnstaked,lockedUntil,projectId,allocator
+beneficiary,percent,preferUnstaked,lockedUntil
 0x823b92d6a4b2AED4b15675c7917c9f922ea8ADAD,0.0304,false,0
 0x63A2368F4B509438ca90186cb1C15156713D5834,0.0304,false,0
 0xE16a238d207B9ac8B419C7A866b0De013c73357B,0.0304,false,0
