@@ -1,45 +1,17 @@
 {
-    "406943b039e1456385f69d506f263588": {
-        "title": "Yo this is a thing",
-        "url": "/GC1/JBP-253.md",
+    "b1cd8679cca24361855d9109ffd7bb06": {
+        "title": "Make goopy head of treasury",
+        "url": "/GC1/JBP-252.md",
         "category": "",
         "status": "Cancelled",
-        "proposalId": "JBP-253",
-        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1016568034044948550",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmYrbqkENgVRT7uMrk8rzAKvj2DJz1z86vm41k1ToMQRRD",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x4a177f0d5f8ed4e3d6ff4728bc67df1508c7653b66457b390b6a8b5eb0b42eee",
+        "proposalId": "JBP-252",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1016570583238049893",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmetvuMWgyVrrUfwZPXTHfHfUjYrpCCXnL11wSQus1nwUp",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xacec38451895e709d95cbffc9cdcc438cff5f57111c65cb1b650f521064e79b0",
         "date": "",
         "governanceCycle": 1,
         "voteResults": {
-            "voteProposalId": "0x4a177f0d5f8ed4e3d6ff4728bc67df1508c7653b66457b390b6a8b5eb0b42eee",
-            "totalVotes": 0,
-            "scoresState": "final",
-            "scores": {
-                "For": 0,
-                "Against": 0,
-                "Abstain": 0
-            },
-            "percentages": {
-                "For": 0,
-                "Against": 0
-            },
-            "outcomePercentage": "0.00",
-            "outcomeEmoji": "❌"
-        }
-    },
-    "cdb20367bea54629a8ad2777efc6088b": {
-        "title": "My thing should pass",
-        "url": "/GC1/JBP-254.md",
-        "category": "",
-        "status": "Cancelled",
-        "proposalId": "JBP-254",
-        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1016568035013836832",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmTdneyfXnrXJCvoTQqSSV2SrhE6BqaBEcJ8biYZMLCdaS",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x66797393eb790e49129ea724a5dd59d19d707c0743ed8cf78ec8348962a8b169",
-        "date": "",
-        "governanceCycle": 1,
-        "voteResults": {
-            "voteProposalId": "0x66797393eb790e49129ea724a5dd59d19d707c0743ed8cf78ec8348962a8b169",
+            "voteProposalId": "0xacec38451895e709d95cbffc9cdcc438cff5f57111c65cb1b650f521064e79b0",
             "totalVotes": 0,
             "scoresState": "final",
             "scores": {
