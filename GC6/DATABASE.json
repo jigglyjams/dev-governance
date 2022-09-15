@@ -1,0 +1,26 @@
+{
+    "d71e847aa388431d852125024b1378f2": {
+        "title": "@Anonymous  payout renewal",
+        "url": "/GC6/JBP-257.md",
+        "category": "Recurring Payment",
+        "status": "Voting",
+        "proposalId": "JBP-257",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1017676945510637638",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmRjFb2CFrSZsEzA2mBi3RiGv2HmGM1kaEf1UtgWUZy2sE",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x43d98975c136336423966112f1bef63abd7dd405b59c7828c0cf938361868360",
+        "date": "2022-09-03",
+        "governanceCycle": 6
+    },
+    "a056f4b1f0524bd3beabd955dff2ebc5": {
+        "title": "WAGMI Renew Reoccurring Payout",
+        "url": "/GC6/JBP-258.md",
+        "category": "Recurring Payment",
+        "status": "Voting",
+        "proposalId": "JBP-258",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1017676942977273866",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmaZnxSP1piyn3V2EQnaZWBG9Wc1nBV5VKWMUHhR71XgRm",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xe7bbf5cefeea5693ad1bb973c2ce72b6b48f6e74ec4a166620338f2d70dab5e9",
+        "date": "2022-09-03",
+        "governanceCycle": 6
+    }
+}
