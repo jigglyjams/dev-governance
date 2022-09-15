@@ -166,5 +166,145 @@
             "outcomePercentage": "0.00",
             "outcomeEmoji": "❌"
         }
+    },
+    "a056f4b1f0524bd3beabd955dff2ebc5": {
+        "title": "WAGMI Renew Reoccurring Payout",
+        "url": "/GC1/.md",
+        "category": "Recurring Payment",
+        "status": "Cancelled",
+        "proposalId": "",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1017676942977273866",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmaZnxSP1piyn3V2EQnaZWBG9Wc1nBV5VKWMUHhR71XgRm",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xe7bbf5cefeea5693ad1bb973c2ce72b6b48f6e74ec4a166620338f2d70dab5e9",
+        "date": "2022-09-03",
+        "governanceCycle": 1,
+        "voteResults": {
+            "voteProposalId": "0xe7bbf5cefeea5693ad1bb973c2ce72b6b48f6e74ec4a166620338f2d70dab5e9",
+            "totalVotes": 0,
+            "scoresState": "final",
+            "scores": {
+                "For": 0,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0,
+                "Against": 0
+            },
+            "outcomePercentage": "0.00",
+            "outcomeEmoji": "❌"
+        }
+    },
+    "da5123ce3d3e4edc93714dddf52ca8eb": {
+        "title": "Allocate $500k to Long-Term Code4Rena Auditing Budget",
+        "url": "/GC1/.md",
+        "category": "",
+        "status": "Cancelled",
+        "proposalId": "",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1017676943920996372",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmSttgPXY1eurkNKxA3ygXF3ZXY7xHVR7UrUBPnht1FJcF",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xbe072625e643586ff2cbc3feb15900bc494894ef8995ff7d1b0cc9de04567c2e",
+        "date": "2022-09-01",
+        "governanceCycle": 1,
+        "voteResults": {
+            "voteProposalId": "0xbe072625e643586ff2cbc3feb15900bc494894ef8995ff7d1b0cc9de04567c2e",
+            "totalVotes": 0,
+            "scoresState": "final",
+            "scores": {
+                "For": 0,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0,
+                "Against": 0
+            },
+            "outcomePercentage": "0.00",
+            "outcomeEmoji": "❌"
+        }
+    },
+    "d71e847aa388431d852125024b1378f2": {
+        "title": "@Anonymous  payout renewal",
+        "url": "/GC1/.md",
+        "category": "Recurring Payment",
+        "status": "Cancelled",
+        "proposalId": "",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1017676945510637638",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmRjFb2CFrSZsEzA2mBi3RiGv2HmGM1kaEf1UtgWUZy2sE",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x43d98975c136336423966112f1bef63abd7dd405b59c7828c0cf938361868360",
+        "date": "2022-09-03",
+        "governanceCycle": 1,
+        "voteResults": {
+            "voteProposalId": "0x43d98975c136336423966112f1bef63abd7dd405b59c7828c0cf938361868360",
+            "totalVotes": 0,
+            "scoresState": "final",
+            "scores": {
+                "For": 0,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0,
+                "Against": 0
+            },
+            "outcomePercentage": "0.00",
+            "outcomeEmoji": "❌"
+        }
+    },
+    "3ea5849c7e5a4be391f8fe021bd85c5c": {
+        "title": "New thingy",
+        "url": "/GC1/JBP-261.md",
+        "category": "",
+        "status": "Cancelled",
+        "proposalId": "JBP-261",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1019971785296449647",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmeX3iGg9hZkHan5nWsWjmzXX99q3GaSLGq6dRosjGU3pg",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x6488bf57e68e048c1689aed338b0cb2874808abb59987ebce4859e613d871be0",
+        "date": "",
+        "governanceCycle": 1,
+        "voteResults": {
+            "voteProposalId": "0x6488bf57e68e048c1689aed338b0cb2874808abb59987ebce4859e613d871be0",
+            "totalVotes": 0,
+            "scoresState": "final",
+            "scores": {
+                "For": 0,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0,
+                "Against": 0
+            },
+            "outcomePercentage": "0.00",
+            "outcomeEmoji": "❌"
+        }
+    },
+    "827f1274886d4adcbf10598ba5b63dfe": {
+        "title": "hihihi",
+        "url": "/GC1/JBP-263.md",
+        "category": "",
+        "status": "Cancelled",
+        "proposalId": "JBP-263",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1019971788240855100",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/Qmd3uvd6Cr8EQ2Bez5gaJ8qnDcW12PXV2suwioGAjYurcu",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xd479d8d8c2b455956574961a31882dc89fe7dd28f9b1b657c6260715523b9954",
+        "date": "",
+        "governanceCycle": 1,
+        "voteResults": {
+            "voteProposalId": "0xd479d8d8c2b455956574961a31882dc89fe7dd28f9b1b657c6260715523b9954",
+            "totalVotes": 0,
+            "scoresState": "final",
+            "scores": {
+                "For": 0,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0,
+                "Against": 0
+            },
+            "outcomePercentage": "0.00",
+            "outcomeEmoji": "❌"
+        }
     }
 }
