@@ -274,5 +274,33 @@
             "outcomePercentage": "0.00",
             "outcomeEmoji": "❌"
         }
+    },
+    "95cf295c56b74fd4a2e5f46f2998f50c": {
+        "title": "HIHIHI",
+        "url": "/GC9/JBP-264.md",
+        "category": "",
+        "status": "Cancelled",
+        "proposalId": "JBP-264",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1024137250918903869",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmPUuQDucPuZKsG6RMtfezcXe11LqfPyL7WCcjefMy58gs",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xf61951213bd926e9aff67e5482718916cd9ab4fa906800520d14c932710b567b",
+        "date": "",
+        "governanceCycle": 9,
+        "voteResults": {
+            "voteProposalId": "0xf61951213bd926e9aff67e5482718916cd9ab4fa906800520d14c932710b567b",
+            "totalVotes": 0,
+            "scoresState": "final",
+            "scores": {
+                "For": 0,
+                "Against": 0,
+                "Abstain": 0
+            },
+            "percentages": {
+                "For": 0,
+                "Against": 0
+            },
+            "outcomePercentage": "0.00",
+            "outcomeEmoji": "❌"
+        }
     }
 }
