@@ -1,75 +1,17 @@
 {
-    "334102167a0742d085f4f24c56922f7e": {
-        "title": "Trial payout for twodam",
-        "url": "/GC9/JBP-265.md",
-        "type": "Payout",
-        "status": "Cancelled",
-        "proposalId": "JBP-265",
-        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1024898291655258203",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmVTpnWiXbc6qDJuEte4jYmGejSDnWdGtXvA6NFx94NEc8",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xac46c2319505f75dd5ca0377270539d450eb3966038f0938394c78f9c0be5dca",
-        "date": "2022-09-28",
-        "governanceCycle": 9,
-        "voteResults": {
-            "voteProposalId": "0xac46c2319505f75dd5ca0377270539d450eb3966038f0938394c78f9c0be5dca",
-            "totalVotes": 0,
-            "scoresState": "final",
-            "scores": {
-                "For": 0,
-                "Against": 0,
-                "Abstain": 0
-            },
-            "percentages": {
-                "For": 0,
-                "Against": 0
-            },
-            "outcomePercentage": "0.00",
-            "outcomeEmoji": "❌"
-        },
-        "body": "# JBP-265 - Trial payout for twodamundefined"
-    },
-    "45a9ee862b33456488acdba7d9fa6b84": {
-        "title": "Hi its me",
-        "url": "/GC9/JBP-266.md",
-        "type": "Payout",
-        "status": "Cancelled",
-        "proposalId": "JBP-266",
-        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1024898295111352360",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXVpVb1iJh6p4ZBToMdYdEE5gePSM1iWzTAG2mtpjRiZT",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x8fd6c246a38393ba14a1842fc0a11adacc0da995e050e57d34f36233be7d40de",
-        "date": "2022-09-29",
-        "governanceCycle": 9,
-        "voteResults": {
-            "voteProposalId": "0x8fd6c246a38393ba14a1842fc0a11adacc0da995e050e57d34f36233be7d40de",
-            "totalVotes": 0,
-            "scoresState": "final",
-            "scores": {
-                "For": 0,
-                "Against": 0,
-                "Abstain": 0
-            },
-            "percentages": {
-                "For": 0,
-                "Against": 0
-            },
-            "outcomePercentage": "0.00",
-            "outcomeEmoji": "❌"
-        },
-        "body": "# JBP-266 - Hi its meundefined"
-    },
-    "daad8f0964b74478a7ce89ba1f434eb3": {
+    "f48175c401be4534875eae205b740190": {
         "title": "hello fren",
-        "url": "/GC9/JBP-267.md",
+        "url": "/GC9/JBP-268.md",
         "type": "Process Upgrades",
         "status": "Cancelled",
-        "proposalId": "JBP-267",
-        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1025470050892795904",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmW3oCdg91fRdgWXvYGFzFm4ceHuAJzk3GpmCL8UbPoXFz",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xe32139961e0d7209c889d1d69fe22fa49e21479400b5b3e6c44466e7949fa3aa",
+        "proposalId": "JBP-268",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1025470055561039892",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXtDqno6QCFXoAeXCpS4cRBkMoJSUHXNWft9qUwKFoB9F",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xe73638d882895240dfc4b5921e8ef4177966e21ad9a41377294bdfa9d0610090",
         "date": "2022-09-29",
         "governanceCycle": 9,
         "voteResults": {
-            "voteProposalId": "0xe32139961e0d7209c889d1d69fe22fa49e21479400b5b3e6c44466e7949fa3aa",
+            "voteProposalId": "0xe73638d882895240dfc4b5921e8ef4177966e21ad9a41377294bdfa9d0610090",
             "totalVotes": 0,
             "scoresState": "final",
             "scores": {
@@ -84,7 +26,7 @@
             "outcomePercentage": "0.00",
             "outcomeEmoji": "❌"
         },
-        "body": "# JBP-267 - hello frenundefined"
+        "body": "# JBP-268 - hello frenundefined"
     },
     "9bde37e28981411fb1bb784d3074c42a": {
         "title": "Twodam needs 50",
@@ -94,11 +36,11 @@
         "proposalId": "JBP-269",
         "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1025470056425066537",
         "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmcxFj2TriFz7wu7nPrBYLhJD6UPMt2Xq9hFcpP8vTkZJP",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x48eb0d8f627fb9070f3c5660b79f578aa09245b24f2053ae59e7f6c5a30a8395",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0xbfbb0d730482f7ba56dc15356c260f6d94574d5f2cf9a0e2b87da50042e7f885",
         "date": "2022-09-29",
         "governanceCycle": 9,
         "voteResults": {
-            "voteProposalId": "0x48eb0d8f627fb9070f3c5660b79f578aa09245b24f2053ae59e7f6c5a30a8395",
+            "voteProposalId": "0xbfbb0d730482f7ba56dc15356c260f6d94574d5f2cf9a0e2b87da50042e7f885",
             "totalVotes": 0,
             "scoresState": "final",
             "scores": {
@@ -115,33 +57,33 @@
         },
         "body": "# JBP-269 - Twodam needs 50undefined"
     },
-    "445adf1484fe43ab925a0bc9f9faee73": {
-        "title": "Hi waterbox",
-        "url": "/GC9/JBP-270.md",
+    "2098c88f998441eab0accf929b5a32f6": {
+        "title": "HiHiItsMe",
+        "url": "/GC9/JBP-271.md",
         "type": "",
-        "status": "Cancelled",
-        "proposalId": "JBP-270",
-        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1025470057284903033",
-        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmXuxL79VPatabdnCyq668q3AS7oJKUsTvKbuCfsJgg5rL",
-        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x73044d1b6ba079885189f7123d027576f2868d8e5e51237494f1bafc4347f582",
+        "status": "Approved",
+        "proposalId": "JBP-271",
+        "discussionThreadURL": "https://discord.com/channels/889377541675159602/964601032703352873/1026969421870280834",
+        "ipfsURL": "https://gateway.pinata.cloud/ipfs/QmRTJe5j82AF1aacdkNetnweA3pZcjwyewGFNXVX3H892P",
+        "voteURL": "https://snapshot.org/#/jigglyjams.eth/proposal/0x0e0b2654fd453c2ac5827beabdbc5d877b6564df7c3070a66b15c6eff2e3a2d8",
         "date": "",
         "governanceCycle": 9,
         "voteResults": {
-            "voteProposalId": "0x73044d1b6ba079885189f7123d027576f2868d8e5e51237494f1bafc4347f582",
-            "totalVotes": 0,
+            "voteProposalId": "0x0e0b2654fd453c2ac5827beabdbc5d877b6564df7c3070a66b15c6eff2e3a2d8",
+            "totalVotes": 1,
             "scoresState": "final",
             "scores": {
-                "For": 0,
+                "For": 1,
                 "Against": 0,
                 "Abstain": 0
             },
             "percentages": {
-                "For": 0,
+                "For": 1,
                 "Against": 0
             },
-            "outcomePercentage": "0.00",
-            "outcomeEmoji": "❌"
+            "outcomePercentage": "100.00",
+            "outcomeEmoji": "✅"
         },
-        "body": "# JBP-270 - Hi waterboxundefined"
+        "body": "# JBP-271 - HiHiItsMeundefined"
     }
 }
